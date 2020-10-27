@@ -10,7 +10,7 @@ celery==4.1.0
 cffi==1.9.1
 configlib==1.0.0
 configparser==3.5.0b2
-cryptography==1.7.1
+cryptography==3.2
 dnspython==1.15.0
 docutils==0.14
 duo-client==3.0
